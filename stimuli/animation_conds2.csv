@@ -1,0 +1,1 @@
+conditionimgL.ori +=  numpy.sin(1.5*(globalClock.getTime()-onset)/40))"imgL.pos = [-0.5, (globalClock.getTime()-onset)/150]"imgL.size = numpy.abs(numpy.sin((globalClock.getTime()-onset))*20)imgL.ori =+ 1.5"imgL.pos = [(globalClock.getTime()-onset)/150, 0.5]"imgL.opa = 1/(globalClock.getTime()-onset)imgL.ori =+ 1.5imgL.ori =+ 1.5imgL.ori =+ 1.5imgL.ori =+ 1.5
